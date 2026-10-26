@@ -1,0 +1,153 @@
+ {
+    "data" :[
+  {
+    "id": 1,
+    "nome": "Beige Skirt",
+    "img":
+      "https://m.media-amazon.com/images/I/71nAZ2hFZ6L._AC_SL1000_.jpg",
+    "descrizione":
+      "Gonna beige comoda e morbida.",
+    "prezzo": 290,
+    "categoria": "clothes"
+  },
+  {
+    "id": 2,
+    "nome": "Flower Bag",
+    "img":
+      "https://images.pexels.com/photos/30224897/pexels-photo-30224897.jpeg",
+    "decrizione": "Borsa floreale realizzata con cura.",
+    "prezzo": 350,
+    "categoria": "bags"
+  },
+  {
+    "id": 3,
+    "nome": "Mini Cactus",
+    "img":
+      "https://images.unsplash.com/photo-1630238083594-43d3846190d7?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "descrizione":
+      "Mini cactus decorativo interamente realizzato in crochet.",
+    "prezzo": 130,
+    "categoria": "home decor"
+  },
+  {
+    "id": 4,
+    "nome": "Pillow Star",
+    "img":
+      "https://images.unsplash.com/photo-1761206887095-e57f9ae4a06f?q=80&w=627&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "descrizione":
+      "Morbido e soffice cuscino a forma di stella.",
+    "prezzo": 130,
+    "categoria": "home decor"
+  },
+  {
+    "id": 5,
+    "nome": "Hat",
+    "img":
+      "https://plus.unsplash.com/premium_photo-1725914369015-e031be89c5cf?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "descrizione":
+      "Berretto sempre di moda semplice ed efficace.",
+    "prezzo": 130,
+    "categoria": "clothes"
+  },
+  {
+    "id": 6,
+    "nome": "Green Lavander Top",
+    "img":
+      "https://plus.unsplash.com/premium_photo-1727427851553-b32944c71e6d?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "descrizione":
+      "Non so piu che descrizione scrivere boh.",
+    "prezzo": 130,
+    "categoria": "clothes"
+  },
+  {
+    "id": 7,
+    "nome": "Hand Bag",
+    "img":
+      "https://images.unsplash.com/photo-1594638963668-52eb9798e8ca?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "descrizione":
+      "Borsetta da mano(?) boh la tieni in mano.",
+    "prezzo": 130,
+    "categoria": "bags"
+  },
+  {
+    "id": 8,
+    "nome": "Rainbow Carpet",
+    "img":
+      "https://images.unsplash.com/photo-1745905308908-25f35bacd146?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "descrizione":
+      "Tappeto circolare tutto colorato con frange lunghe.",
+    "prezzo": 130,
+    "categoria": "home decor"
+  },
+  {
+    "id": 9,
+    "nome": "Cozy Socks",
+    "img":
+      "https://images.unsplash.com/photo-1610134142835-e1724e0ed53d?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "descrizione":
+      "Caldi calzini coorati m soprattutto wow in inverno.",
+    "prezzo": 130,
+    "categoria": "clothes"
+  },
+  {
+    "id": 10,
+    "nome": "Winter Hat",
+    "img":
+      "https://images.unsplash.com/photo-1607351437887-d21e8abd7d4d?q=80&w=776&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "descrizione":
+      "Berretto invernale che scalda la testa sempre.",
+    "prezzo": 130,
+    "categoria": "clothes"
+  },
+  {
+    "id": 11,
+    "nome": "Net Bag",
+    "img":
+      "https://images.unsplash.com/photo-1565592284258-6eeafaef640f?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "descrizione":
+      "Borsa stra inutile ma bellissima dai poi è di un bel colore.",
+    "prezzo": 130,
+    "categoria": "bags"
+  },
+  {
+    "id": 12,
+    "nome": "Coaster",
+    "img":
+      "https://images.unsplash.com/photo-1648217736318-fbc4abc138ec?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "descrizione":
+      "Sottobicchieri di vari forme e colori soprattutto fiori ovviamente.",
+    "prezzo": 130,
+    "categoria": "home decor"
+  },
+  {
+    "id": 13,
+    "nome": "Centrepiece",
+    "img":
+      "https://images.unsplash.com/photo-1607432568146-5895e18abeb9?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "descrizione":
+      "Centrotavola di diverse forme insomma anche fiori come ho già detto.",
+    "prezzo": 130,
+    "categoria": "home decor"
+  },
+  {
+    "id": 14,
+    "nome": "Sweaters Different Colors",
+    "img":
+      "https://images.unsplash.com/photo-1731399738276-5d147430232b?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "descrizione":
+      "Maglioni di diversi colori ce ne sono un sacco molto belli.",
+    "prezzo": 130,
+    "categoria": "clothes"
+  },
+  {
+    "id": 15,
+    "nome": "Bag Summer",
+    "img":
+      "https://plus.unsplash.com/premium_photo-1727427850057-74de21f91bb8?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "descrizione":
+      "Borsa estiva ma puoi usarla in tutte le stagioni se vuoi.",
+    "prezzo": 130,
+    "categoria": "bags"
+  }
+]
+ }
