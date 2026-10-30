@@ -15,7 +15,7 @@
     "nome": "Flower Bag",
     "img":
       "https://images.pexels.com/photos/30224897/pexels-photo-30224897.jpeg",
-    "decrizione": "Borsa floreale realizzata con cura.",
+    "descrizione": "Borsa floreale realizzata con cura.",
     "prezzo": 350,
     "categoria": "bags"
   },
